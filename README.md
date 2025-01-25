@@ -1,39 +1,36 @@
-# [Project Name] 🎯
+# E-Voting System using Blockchain 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Bit-By-Bit
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Sona M Binu - LBS Institute Of Technology For Women
+- Member 2: Vandana Gopan- LBS Institute Of Technology For Women
+- Member 3: Pravda Premji - LBS Institute Of Technology For Women
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+ E-Voting System is a blockchain-based platform designed to make the voting process for college elections secure, transparent, and easy to use. This system ensures that students can cast their votes digitally without worrying about fraud or tampering.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Issues related on transparency and tampering of votes
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Blockchain technology guarantees that each vote is securely recorded and cannot be altered.
+Every vote is logged on the blockchain, making the process fully transparent and auditable.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+-  html,css,javascript,node.js
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
